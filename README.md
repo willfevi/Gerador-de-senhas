@@ -6,9 +6,9 @@ Esse site foi desenvolvido para ser um simples gerador de senhas.
 <!-- You can add more screenshots here if you like -->
 
 
-<img src="/Captura de tela 2024-06-05 164326.png" width="700px">&emsp;
+<img src="Gerador/Captura de tela 2024-06-05 164326.png" width="700px">&emsp;
 
-<img src="/lCaptura de tela 2024-06-05 164335.png" width="700px">&emsp;
+<img src="Gerador/Captura de tela 2024-06-05 164335.png" width="700px">&emsp;
 
 ## Tecnologias
 
