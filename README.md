@@ -1,5 +1,5 @@
 https://geradordesenhas-cfuvkw9zy-wills-projects-68aebad7.vercel.app/
-# Site Argentina
+# Gerador de senhas
 Esse site foi desenvolvido para ser um gerador de senhas que auxilie na criação de senhas fortes e seguras utilizando funções para gerar senhas sempre diferentes e com boa segurança. 
 
 ## :camera_flash: 
